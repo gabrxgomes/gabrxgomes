@@ -1,4 +1,5 @@
 ### Hi there 👋
+Meu nome é Gabriel sou um estudante do terceiro semestre de ciência da computação e atualmente trabalho com infra e redes!.
 
 <!--
 **gabrxgomes/gabrxgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
