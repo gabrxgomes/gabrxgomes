@@ -1,5 +1,10 @@
 ### Hi there 👋
+
+PT-BR
 Meu nome é Gabriel sou um estudante do terceiro semestre de ciência da computação e atualmente trabalho com infra e redes!.
+
+EN
+My name is Gabriel, and I am a third-semester computer science student. Currently, I work with infrastructure and networks!
 
 <!--
 **gabrxgomes/gabrxgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
