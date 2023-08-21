@@ -30,7 +30,7 @@ Linguagens 🌱
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrxgomes/)
 https://www.linkedin.com/in/gabriel-gomes-641950163/
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrxgomes&theme=react&line_height=40&hide=css"/> </a>
+
 
 
 
