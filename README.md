@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🤘
 
 PT-BR ✨
 Meu nome é Gabriel sou um estudante do quinto semestre de ciência da computação e atualmente trabalho com infra e redes!.
