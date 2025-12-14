@@ -1,10 +1,8 @@
 ### Hi there 🤘
 
-PT-BR ✨
-Meu nome é Gabriel sou um estudante do quinto semestre de ciência da computação e atualmente trabalho com infra e redes!.
+PT-BR ✨ Meu nome é Gabriel, sou estudante do último semestre de Ciência da Computação e atualmente trabalho como Analista de Suporte de Operações Jr. na InfoJobs Brasil, atuando com integrações de API REST e troubleshooting técnico!
 
-EN ✨
-My name is Gabriel, and I am a third-semester computer science student. Currently, I work with infrastructure and networks!
+EN ✨ My name is Gabriel, and I am a final-semester Computer Science student. Currently, I work as a Junior Operations Support Analyst at InfoJobs Brasil, focusing on REST API integrations and technical troubleshooting!
 
 <!--
 **gabrxgomes/gabrxgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
