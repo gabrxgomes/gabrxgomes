@@ -41,14 +41,6 @@ Rust (smart contracts), Terraform, DevOps
 
 ---
 
-### Stats
-
-<a href="https://github.com/gabrxgomes">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrxgomes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</a>
-
----
-
 ### Bora trocar ideia / Let's connect
 
 🇧🇷 Procurando oportunidades remotas, preferencialmente com empresas do Canadá ou Alemanha.
