@@ -43,7 +43,9 @@ Rust (smart contracts), Terraform, DevOps
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrxgomes&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
+<a href="https://github.com/gabrxgomes">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrxgomes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</a>
 
 ---
 
