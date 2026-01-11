@@ -1,4 +1,6 @@
-# Fala! 👋
+# Fala! / Hey there! 👋
+
+🇧🇷 **PT-BR**
 
 Sou o Gabriel, paulista, último semestre de Ciência da Computação na FMU.
 
@@ -8,7 +10,17 @@ Fora do trabalho, tô mergulhado no mundo **Web3** — desenvolvendo DApps na So
 
 ---
 
-### No dia a dia uso
+🇺🇸 **EN**
+
+I'm Gabriel, from São Paulo, final semester of Computer Science at FMU.
+
+I work as an Operations Support Analyst at **InfoJobs Brasil** (Pandapé ATS), spending my days figuring out REST API integrations for big clients like TOTVS, Americanas, Carrefour, and Vivara. Basically: webhooks, OAuth2, production troubleshooting, and Node.js/Python automation to make life easier.
+
+Outside of work, I'm deep into **Web3** — building DApps on Solana, working with Jupiter Terminal, SPL tokens, and exploring the DeFi ecosystem. Currently participating in the **Solana Privacy Hack 2026** with a trading analytics project.
+
+---
+
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -23,21 +35,23 @@ Fora do trabalho, tô mergulhado no mundo **Web3** — desenvolvendo DApps na So
 
 ---
 
-### Estudando agora
+### Estudando / Currently learning
 
-Rust (pra smart contracts), Terraform, e tentando ficar decente em DevOps no geral.
+Rust (smart contracts), Terraform, DevOps
 
 ---
 
 ### Stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrxgomes&layout=compact&theme=github_dark&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrxgomes&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 ---
 
-### Bora trocar ideia
+### Bora trocar ideia / Let's connect
 
-Procurando oportunidades remotas, preferencialmente com empresas do Canadá ou Alemanha.
+🇧🇷 Procurando oportunidades remotas, preferencialmente com empresas do Canadá ou Alemanha.
+
+🇺🇸 Looking for remote opportunities, preferably with companies in Canada or Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-641950163/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabrielnasciment123@hotmail.com)
