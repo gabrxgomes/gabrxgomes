@@ -1,40 +1,43 @@
-### Hi there 🤘
+# Fala! 👋
 
-PT-BR ✨ Meu nome é Gabriel, sou estudante do último semestre de Ciência da Computação e atualmente trabalho como Analista de Suporte de Operações Jr. na InfoJobs Brasil, atuando com integrações de API REST e troubleshooting técnico!
+Sou o Gabriel, paulista, último semestre de Ciência da Computação na FMU.
 
-EN ✨ My name is Gabriel, and I am a final-semester Computer Science student. Currently, I work as a Junior Operations Support Analyst at InfoJobs Brasil, focusing on REST API integrations and technical troubleshooting!
+Trabalho como Analista de Suporte a Operações na **InfoJobs Brasil** (Pandapé ATS), onde passo o dia quebrando a cabeça com integrações REST API pra clientes grandes tipo TOTVS, Americanas, Carrefour e Vivara. Basicamente: webhooks, OAuth2, troubleshooting em produção e aquela automação em Node.js/Python pra facilitar a vida.
 
-<!--
-**gabrxgomes/gabrxgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fora do trabalho, tô mergulhado no mundo **Web3** — desenvolvendo DApps na Solana, mexendo com Jupiter Terminal, SPL tokens e explorando o ecossistema DeFi. Atualmente participando do **Solana Privacy Hack 2026** com um projeto de analytics de trading.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Infra
-- 🌱 I’m currently learning Java, Python, Angular, Pentest
+### No dia a dia uso
 
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
-Linguagens 🌱
+---
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+### Estudando agora
 
+Rust (pra smart contracts), Terraform, e tentando ficar decente em DevOps no geral.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrxgomes/)
-https://www.linkedin.com/in/gabriel-gomes-641950163/
+---
 
+### Stats
 
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrxgomes&layout=compact&theme=github_dark&hide_border=true" />
 
+---
 
+### Bora trocar ideia
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrxgomes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Procurando oportunidades remotas, preferencialmente com empresas do Canadá ou Alemanha.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrxgomes&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-641950163/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabrielnasciment123@hotmail.com)
