@@ -1,22 +1,12 @@
-# Fala! / Hey there! 👋
+# Hey there! 👋
 
-🇧🇷 **PT-BR**
+I'm Gabriel, from São Paulo, Brazil. Final semester of Computer Science at FMU.
 
-Sou o Gabriel, paulista, último semestre de Ciência da Computação na FMU.
+I work as a **Requirements Analyst** at **InfoJobs Brasil** (Pandapé ATS), where I spend my days working on REST API integrations for enterprise clients like TOTVS, Americanas, Carrefour, and Vivara. Day-to-day: webhooks, OAuth2/SAML2 SSO, production troubleshooting, and Python/Node.js automation.
 
-Trabalho como Analista de Suporte a Operações na **InfoJobs Brasil** (Pandapé ATS), onde passo o dia quebrando a cabeça com integrações REST API pra clientes grandes tipo TOTVS, Americanas, Carrefour e Vivara. Basicamente: webhooks, OAuth2, troubleshooting em produção e aquela automação em Node.js/Python pra facilitar a vida.
+Outside of work, I'm doing **independent research** on the empirical gap between theoretical complexity and real-world performance of graph search algorithms — building in public at [gabrxgomes.github.io/complexity-gap](https://gabrxgomes.github.io/complexity-gap).
 
-Fora do trabalho, tô mergulhado no mundo **Web3** — desenvolvendo DApps na Solana, mexendo com Jupiter Terminal, SPL tokens e explorando o ecossistema DeFi. Atualmente participando do **Solana Privacy Hack 2026** com um projeto de analytics de trading.
-
----
-
-🇺🇸 **EN**
-
-I'm Gabriel, from São Paulo, final semester of Computer Science at FMU.
-
-I work as an Operations Support Analyst at **InfoJobs Brasil** (Pandapé ATS), spending my days figuring out REST API integrations for big clients like TOTVS, Americanas, Carrefour, and Vivara. Basically: webhooks, OAuth2, production troubleshooting, and Node.js/Python automation to make life easier.
-
-Outside of work, I'm deep into **Web3** — building DApps on Solana, working with Jupiter Terminal, SPL tokens, and exploring the DeFi ecosystem. Currently participating in the **Solana Privacy Hack 2026** with a trading analytics project.
+I'm also actively transitioning into **Application Security**, exploring bug bounty hunting and working through HackTheBox.
 
 ---
 
@@ -26,26 +16,36 @@ Outside of work, I'm deep into **Web3** — building DApps on Solana, working wi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
 ---
 
-### Estudando / Currently learning
+### Currently learning
 
-Rust (smart contracts), Terraform, DevOps
+![Java](https://img.shields.io/badge/Java_algorithms-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![AppSec](https://img.shields.io/badge/Application_Security-232F3E?style=flat&logo=hackthebox&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+Algorithms & data structures in Java, Application Security (BSCP, eWPT path), Go as a backend differentiator.
 
 ---
 
-### Bora trocar ideia / Let's connect
+### Research
 
-🇧🇷 Procurando oportunidades remotas, preferencialmente com empresas do Canadá ou Alemanha.
+📄 **Complexity Gap** — Empirical analysis of the gap between theoretical complexity and real performance of graph search algorithms across different graph topologies.
 
-🇺🇸 Looking for remote opportunities, preferably with companies in Canada or Germany.
+→ [gabrxgomes.github.io/complexity-gap](https://gabrxgomes.github.io/complexity-gap)
+
+---
+
+### Let's connect
+
+Looking for remote opportunities in backend development or application security, preferably with companies in Canada or Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-641950163/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabrielnasciment123@hotmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/RetroDevdotcom)
