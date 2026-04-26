@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Gabriel, from São Paulo, Brazil. Final semester of Computer Science at FMU.
+I'm Gabriel, from São Paulo, Brazil.
 
 I work as a **Requirements Analyst** at **InfoJobs Brasil** (Pandapé ATS), where I spend my days working on REST API integrations for enterprise clients like TOTVS, Americanas, Carrefour, and Vivara. Day-to-day: webhooks, OAuth2/SAML2 SSO, production troubleshooting, and Python/Node.js automation.
 
