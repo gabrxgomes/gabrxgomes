@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Gabriel, from São Paulo, Brazil.
+I'm Gabriel, Backend Developer from São Paulo, Brazil.
 
 I work as a **Requirements Analyst** at **InfoJobs Brasil (Pandapé ATS)**, focused on REST API integrations, webhook configurations, OAuth2/SAML2 SSO, and production incident resolution for enterprise environments.
 
