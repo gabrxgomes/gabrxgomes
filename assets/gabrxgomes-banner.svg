@@ -1,0 +1,93 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050a0d"/>
+      <stop offset="100%" stop-color="#01161a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#00eaff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#00eaff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00eaff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#00eaff" stop-opacity="0.12"/>
+      <stop offset="55%" stop-color="#00eaff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#00eaff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#0d2a30" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="900" height="260" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .rain { fill:#0f5b66; font-size:14px; opacity:0.55; }
+    .title { font-size:46px; font-weight:bold; letter-spacing:4px; }
+    .t-base { fill:#d6fbff; }
+    .t-cyan { fill:#00eaff; opacity:0.75; }
+    .t-mag  { fill:#ff2e88; opacity:0.65; }
+    .sub    { fill:#5fd9e8; font-size:15px; letter-spacing:3px; }
+    .prompt { fill:#5fd9e8; font-size:15px; }
+    .cmd    { fill:#eafcff; font-size:15px; }
+    .cursor { fill:#00eaff; }
+    .dim    { fill:#3d7480; font-size:12px; letter-spacing:2px; }
+
+    @keyframes blink { 0%, 45% { opacity:1 } 50%, 95% { opacity:0 } 100% { opacity:1 } }
+    @keyframes pulse { 0%,100% { opacity:0.25 } 50% { opacity:0.55 } }
+    @keyframes fall  { 0% { transform:translateY(-40px) } 100% { transform:translateY(300px) } }
+    @keyframes sweepMove { 0% { transform:translateY(-260px) } 100% { transform:translateY(260px) } }
+    @keyframes glitchCyan {
+      0%, 91%, 100% { transform:translate(0,0); opacity:0.75 }
+      92% { transform:translate(-3px,1px); opacity:0.9 }
+      94% { transform:translate(2px,-1px); opacity:0.4 }
+      96% { transform:translate(-2px,0); opacity:0.85 }
+    }
+    @keyframes glitchMag {
+      0%, 91%, 100% { transform:translate(0,0); opacity:0.65 }
+      92% { transform:translate(3px,-1px); opacity:0.85 }
+      94% { transform:translate(-2px,1px); opacity:0.35 }
+      96% { transform:translate(2px,0); opacity:0.8 }
+    }
+
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .glow-pulse { animation: pulse 4s ease-in-out infinite; }
+    .rain-col { animation: fall linear infinite; }
+    .sweep-rect { animation: sweepMove 6s linear infinite; }
+    .t-cyan { animation: glitchCyan 5s infinite; }
+    .t-mag  { animation: glitchMag 5s infinite; }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="260" fill="url(#bg)"/>
+    <rect width="900" height="260" fill="url(#grid)"/>
+    <rect width="900" height="260" fill="url(#glow)" class="glow-pulse"/>
+
+    <g class="rain">
+      <text class="rain-col" x="40"  y="0" style="animation-duration:7s;  animation-delay:-1s">ｱ ｶ ﾀ ﾅ ﾊ</text>
+      <text class="rain-col" x="140" y="0" style="animation-duration:9s;  animation-delay:-3s">ｸ ｼ ﾁ ﾆ ﾋ</text>
+      <text class="rain-col" x="760" y="0" style="animation-duration:8s;  animation-delay:-2s">ｾ ﾃ ﾈ ﾍ ﾒ</text>
+      <text class="rain-col" x="830" y="0" style="animation-duration:10s; animation-delay:-4s">ｿ ﾄ ﾉ ﾎ ﾓ</text>
+    </g>
+
+    <rect x="0" y="0" width="900" height="90" class="sweep-rect" fill="url(#sweep)"/>
+
+    <text x="450" y="112" text-anchor="middle" class="title t-cyan">gabrxgomes</text>
+    <text x="450" y="112" text-anchor="middle" class="title t-mag">gabrxgomes</text>
+    <text x="450" y="112" text-anchor="middle" class="title t-base">gabrxgomes</text>
+
+    <text x="450" y="142" text-anchor="middle" class="sub">GHOST IN THE SHELL // BACKEND OPS</text>
+
+    <text x="450" y="196" text-anchor="middle" class="prompt">
+      <tspan class="prompt">root@section9:~$ </tspan><tspan class="cmd">whoami</tspan>
+    </text>
+    <text x="450" y="220" text-anchor="middle">
+      <tspan class="cmd">&gt; backend_engineer.py --stack python,kotlin,spring,postgresql,docker</tspan><tspan class="cursor">▌</tspan>
+    </text>
+
+    <text x="450" y="246" text-anchor="middle" class="dim">"THE NET IS VAST AND INFINITE"</text>
+
+    <rect x="1" y="1" width="898" height="258" rx="6" fill="none" stroke="#0f5b66" stroke-width="1"/>
+  </g>
+</svg>
