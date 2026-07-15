@@ -4,9 +4,9 @@
 <img src="./assets/gabrxgomes-banner.svg" alt="gabrxgomes-banner" width="100%" />
 </p>
 
---[ 0x01. Ghost Profile ]--------------------------------------------------------
+--[ 0x01.Profile ]--------------------------------------------------------
 > Gabriel — Backend Developer, São Paulo, Brazil.
-> Requirements Analyst @ InfoJobs Brasil (Pandapé ATS): REST API integrations,
+> DEV API REST API in integrations,
 > webhook configuration, OAuth2/SAML2 SSO, production incident resolution.
 > "I am not what I was made, I am what I choose to become."
 
@@ -26,7 +26,7 @@
 
 --[ 0x04. Currently Training ]------------------------------------------------------
 * Application Security — HackTheBox, path toward BSCP / eWPT
-* Algorithms & data structures in Java
+* Algorithms & data structures in Kotlin, Java and Python
 * Go as a backend differentiator
 
 --[ 0x05. Uplink ]-------------------------------------------------------------------
@@ -34,7 +34,7 @@
 * LinkedIn:  linkedin.com/in/gabriel-gomes-641950163
 * Email:     gabrielnasciment123@hotmail.com
 * Twitter:   twitter.com/TheGabDev
-* Status:    open to remote backend / appsec roles (Canada, Germany)
+* Status:    open to remote backend 
 
 ---
 <p align="right">
