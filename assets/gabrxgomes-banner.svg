@@ -83,7 +83,7 @@
       <tspan class="prompt">root@section9:~$ </tspan><tspan class="cmd">whoami</tspan>
     </text>
     <text x="450" y="220" text-anchor="middle">
-      <tspan class="cmd">&gt; backend_engineer.py --stack python,kotlin,spring,postgresql,docker</tspan><tspan class="cursor">▌</tspan>
+      <tspan class="cmd">&gt; backend_engineer.py --stack python,kotlin,java,spring,postgresql,docker</tspan><tspan class="cursor">▌</tspan>
     </text>
 
     <text x="450" y="246" text-anchor="middle" class="dim">"THE NET IS VAST AND INFINITE"</text>
